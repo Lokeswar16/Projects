@@ -8,4 +8,4 @@ Up arrow:For moving the snake in the upward direction
 Down arrow: For moving the snake in the downward direction
 Left arrow:For moving the snake towards left.
 Right arrow:For moving the snake towards right.
-![image](https://user-images.githubusercontent.com/116056995/211182901-1cc452bf-51fc-4a9c-893e-ef42bcd7af58.png)
+
