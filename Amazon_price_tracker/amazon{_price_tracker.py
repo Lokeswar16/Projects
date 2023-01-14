@@ -53,12 +53,12 @@ def get_price(soup):
             connection.sendmail(from_addr=my_email_gmail,
                                 to_addrs=my_email_yahoo,
                                 msg=msg)
-my_email_gmail = "testing.in.py@gmail.com"  # sender's address
-my_email_yahoo = "mek45704@gmail.com"  # reciever's address
-password_gmail = "abcd1234()" #password of the sender's gmail account
-app_password_gmail="vngqqzqdxwcmkmmy" #sender's app password gmail
-password_yahoo = "abcd1234()@"
-#You have to generate an app passoword after turning on two -step authentication and then use this password in your app-password-gmail variable
+my_email_gmail = "..."  # sender's address
+my_email_yahoo = ".."  # reciever's address
+password_gmail = ".." #password of the sender's gmail account
+app_password_gmail=".." #sender's app password gmail
+password_yahoo = ".."
+#You have to generate an app password after turning on two -step authentication and then use this password in your app-password-gmail variable
 # get_price(soup)
 import schedule
 # schedule.every(5).minutes.do(get_price,soup)
